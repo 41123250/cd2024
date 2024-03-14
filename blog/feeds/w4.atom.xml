@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-03-14T15:00:00+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-spring-ke-cheng.html" rel="alternate"></link><published>2024-03-14T15:00:00+08:00</published><updated>2024-03-14T08:00:29+08:00</updated><author><name>weizeja</name></author><id>tag:None,2024-03-14:./2024-spring-ke-cheng.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-03-14T15:00:00+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-spring-ke-cheng.html" rel="alternate"></link><published>2024-03-14T15:00:00+08:00</published><updated>2024-03-14T08:07:56+08:00</updated><author><name>weizeja</name></author><id>tag:None,2024-03-14:./2024-spring-ke-cheng.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
 &lt;blockquote&gt;
-&lt;p&gt;在此周進行文檔翻譯
+&lt;p&gt;成功上傳網誌，在此周進行文檔翻譯&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;此為待翻譯文檔 負責13-24
+https://webthesis.biblio.polito.it/16429/1/tesi.pdf
 &lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/blockquote&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry></feed>
